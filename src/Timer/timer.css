@@ -1,0 +1,16 @@
+.timer-button {
+    padding: 0.8rem 1.2rem;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+    
+    width: 50%;
+}
+
+.timer-outlined {
+    padding: 0.8rem 1.2rem;
+    margin-bottom: 0.5rem;
+    
+    cursor: pointer;
+    width: 50%;
+    border: black solid 2px;
+}

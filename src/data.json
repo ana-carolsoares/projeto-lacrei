@@ -1,0 +1,5 @@
+[
+    {"tempo":1, "cor": "red"},
+    {"tempo":3,"cor": "blue"},
+    {"tempo":10, "cor": "green"}
+]
